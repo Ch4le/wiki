@@ -1,0 +1,38 @@
+header{
+    background-image: url(img/city.gif);
+    background-size: 90%;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: #ffffff;
+}
+p{
+    font-family: 'Open Sans', sans-serif;
+}
+#menu{
+    background-color: rgb(255, 255, 255);
+    font-family: 'Open Sans', sans-serif;
+}
+h1{
+    text-align: center;
+    padding: 5%;
+    margin: 0%;
+}
+.btn-primary{
+    color: rgb(255, 255, 255);
+    background-color: blueviolet;
+}
+.row{
+    padding: 1%;
+    margin: 0%;
+    font-family: 'Open Sans', sans-serif;
+}
+#texto1 {text-align: center;
+margin: 5%;
+color: rgb(0, 0, 0);
+font-family: 'Open Sans', sans-serif;
+}
+h1{padding: 5%;
+color: aliceblue;
+font-family: 'Open Sans', sans-serif;
+}

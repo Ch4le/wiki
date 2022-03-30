@@ -1,0 +1,21 @@
+.row{
+    padding: 5%;
+    margin: 0%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header{
+    background-image: url(img/city.gif);
+    background-size: 90%;
+}
+h1{
+    text-align: center;
+    padding: 5%;
+    margin: 0%;
+    color: white;
+}
+.mb-3{
+    color: #000000;
+    margin: 0%;
+    padding: 0%;
+}
